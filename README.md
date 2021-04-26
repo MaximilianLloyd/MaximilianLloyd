@@ -1,10 +1,9 @@
-### Hi there 👋
+![giphy](https://user-images.githubusercontent.com/10583205/116155000-cb19f980-a6e9-11eb-8acb-8055fea580c5.gif)
 
 <!--
 **MaximilianLloyd/MaximilianLloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
