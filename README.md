@@ -13,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on
+- [ascii.nvim](https://github.com/MaximilianLloyd/ascii.nvim)
+
+
+📫 How to reach me:
+- [me@maxlloyd.no](mailto:me@maxlloyd.no)
