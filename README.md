@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 
 📫 How to reach me:
 - [me@maxlloyd.no](mailto:me@maxlloyd.no)
+
+Some contributions: 
+- LSPSaga
+  -  [Add option to show LSP name in code actions](https://github.com/glepnir/lspsaga.nvim/pull/825#event-8431861027)
+- Harpoon
+  - [Move up functionality for Telescope](https://github.com/ThePrimeagen/harpoon/pull/215)
