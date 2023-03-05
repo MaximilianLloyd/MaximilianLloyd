@@ -1,4 +1,6 @@
-![giphy](https://user-images.githubusercontent.com/10583205/116155000-cb19f980-a6e9-11eb-8acb-8055fea580c5.gif)
+[![Maximilian's github stats](https://github-readme-stats.vercel.app/api?username=MaximilianLloyd&count_private=true&show_icons=true)](https://github.com/folke)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianLloyd&hide=php)](https://github.com/MaximilianLloyd)
 
 <!--
 **MaximilianLloyd/MaximilianLloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
